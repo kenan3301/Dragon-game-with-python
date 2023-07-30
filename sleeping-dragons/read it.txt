@@ -1,0 +1,5 @@
+Are u ready to search of dragon treasure. Dragon is sleeping now, but be careful, keep your eye open even you have sword, brave knight!
+
+This game uses built in "Pygame functions" to animate the actors and python's dictionaries to keep track of the dragons and their eggs.
+
+reference : coding with phyton book, www.dk.com ISBN:978-1-4654-7361-5
